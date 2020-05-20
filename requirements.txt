@@ -1,4 +1,6 @@
 aniso8601==8.0.0
+blinker==1.4
+certifi==2020.4.5.1
 click==7.1.2
 Flask==1.1.2
 Flask-RESTful==0.3.8
@@ -9,5 +11,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 netaddr==0.7.19
 pytz==2020.1
+sentry-sdk==0.14.4
 six==1.14.0
+urllib3==1.25.9
 Werkzeug==1.0.1

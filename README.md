@@ -1,0 +1,1 @@
+{'info': 'CRUD: POST DELETE ','EXAMPLE':{"ip":"196.168.1.5", "mask":"255.255.255.0"}}
