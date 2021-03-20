@@ -7,7 +7,7 @@ Flask-RESTful==0.3.8
 ipaddress==1.0.23
 ipcalc==1.99.0
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 netaddr==0.7.19
 pytz==2020.1
